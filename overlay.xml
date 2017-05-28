@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>chapipo</name>
+		<description>Chapipo overlay</description>
+		<homepage>https://github.com/chapipo/overlay</homepage>
+		<owner>
+			<email>tom.molines@chapipo.fr</email>
+		</owner>
+		<source type="git">https://github.com/chapipo/overlay</source>
+	</repo>
+</repositories>
