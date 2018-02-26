@@ -4,7 +4,7 @@
 
 EAPI=6
 
-inherit versionator
+inherit versionator eutils
 
 MY_P="JLink_Linux_V${PV/\./}_x86_64"
 INSTALLDIR="/opt/${PN}"
